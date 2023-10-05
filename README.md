@@ -19,6 +19,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=prajwalhc-18&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prajwalhc-18&icon=1&color=1)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=prajwalhc-18&label=Profile%20Views&color=6&icon=5&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
