@@ -1,7 +1,6 @@
 <h1 align="center"> I'm Prajwal H C</h1>
 
-🔭 I’m currently working on >> front-end dev<br>👯 I’m looking to collaborate on > web dev projects<br>🤝 I’m looking for help with > DOM <br>🌱 I’m currently learning > DOM<br>💬 Ask me about > Mobile Tech<br>
-
+Passionate web developer with a love for sports and a knack for Python programming. Eager to learn and grow, seeking new challenges in front-end development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Prajwal  H C](https://www.linkedin.com/in/prajwal-h-c-69328518b/))
