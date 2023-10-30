@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prajwal  H C)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Prajwal  H C](https://www.linkedin.com/in/prajwal-h-c-69328518b/))
 
 [![Email me](https://img.shields.io/badge/Email%20me-12100E?logo=gmail&logoColor=white)](mailto:prajwalhc1806@gmail.com).(prajwalhc1806@gmail.com)
 
