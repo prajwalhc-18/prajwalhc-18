@@ -1,4 +1,4 @@
-<h1 align="center">I'm Prajwal H C</h1>
+<h1 align="center">👋 I'm Prajwal H C</h1>
 
 🔭 I’m currently working on >> front-end dev<br>👯 I’m looking to collaborate on > web dev projects<br>🤝 I’m looking for help with > DOM <br>🌱 I’m currently learning > DOM<br>💬 Ask me about > Mobile Tech<br>
 
