@@ -1,4 +1,6 @@
 # 💫 About Me:
+<h1>I'm Prajwal H C</h1>
+<hr/>
 🔭 I’m currently working on >> front-end dev<br>👯 I’m looking to collaborate on > web dev projects<br>🤝 I’m looking for help with > DOM <br>🌱 I’m currently learning > DOM<br>💬 Ask me about > Mobile Tech<br>
 
 
