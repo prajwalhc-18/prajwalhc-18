@@ -5,7 +5,7 @@ Passionate web developer with a flair for programming. Eager to learn and grow, 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Prajwal  H C](https://www.linkedin.com/in/prajwal-h-c-69328518b/))
 
-[![Email me](https://img.shields.io/badge/Email%20me-12100E?logo=gmail&logoColor=white)](mailto:prajwalhc1806@gmail.com).(prajwalhc1806@gmail.com)
+[![Email me](https://img.shields.io/badge/Email%20me-12100E?logo=gmail&logoColor=white)](mailto:prajwalhc1806@gmail.com)(prajwalhc1806@gmail.com)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
