@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Prajwal H C</h1>
+<h1 align="center"> I'm Prajwal H C</h1>>
 
 
 Passionate web developer with a flair for programming. Eager to learn and grow, embracing a sportive approach to work in front-end development.
