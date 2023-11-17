@@ -8,7 +8,7 @@ Passionate web developer with a flair for programming. Eager to learn and grow, 
 
 [![Email me](https://img.shields.io/badge/Email%20me-12100E?logo=gmail&logoColor=white)](mailto:prajwalhc1806@gmail.com)
 
-[![Frontend Mentor Profile](https://img.shields.io/badge/Frontend%20Mentor-12100E?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/prajwalhc-18)
+[![Frontend Mentor Profile](https://img.shields.io/badge/Frontend%20Mentor-12100E?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/prajwalhc-18) Frontend-Mentor
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
