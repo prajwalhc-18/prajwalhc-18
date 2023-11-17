@@ -4,9 +4,9 @@
 Passionate web developer with a flair for programming. Eager to learn and grow, embracing a sportive approach to work in front-end development.
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Prajwal  H C](https://www.linkedin.com/in/prajwal-h-c-69328518b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-h-c-69328518b/))
 
-[![Email me](https://img.shields.io/badge/Email%20me-12100E?logo=gmail&logoColor=white)](mailto:prajwalhc1806@gmail.com)(prajwalhc1806@gmail.com)
+[![Email me](https://img.shields.io/badge/Email%20me-12100E?logo=gmail&logoColor=white)](mailto:prajwalhc1806@gmail.com)
 
 [![Frontend Mentor Profile](https://img.shields.io/badge/Frontend%20Mentor-12100E?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/prajwalhc-18)
 
