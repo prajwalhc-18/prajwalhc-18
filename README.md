@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Prajwal H C</h1>
 
-<h3>A zealous web sorcerer, adept in front-end arts with mastery over CSS3 and React. Eager for challenges, let's embark on the coding quest and conquer the digital realm with unyielding resolve!</h3>
+<h3>A zealous web sorcerer, adept in front-end arts, wielding the powers of CSS3, React, and the arcane scripts of JavaScript. Eager for challenges, let's embark on the coding quest and conquer the digital realm with unyielding resolve!</h3>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-h-c-69328518b/)
