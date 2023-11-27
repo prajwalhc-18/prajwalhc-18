@@ -7,7 +7,7 @@
 
 [![Email me](https://img.shields.io/badge/Email%20me-12100E?logo=gmail&logoColor=white)](mailto:prajwalhc1806@gmail.com)
 
-[![Frontend Mentor Profile](https://img.shields.io/badge/Frontend%20Mentor-12100E?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/prajwalhc-18) Frontend-Mentor
+[![Frontend Mentor Profile](https://img.shields.io/badge/Frontend%20Mentor-12100E?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/prajwalhc-18) 
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
