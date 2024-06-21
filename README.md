@@ -1,6 +1,7 @@
 <h1 align="center"> 👋, I'm Prajwal H C</h1>
 
-<h3>Passionate frontend artisan with a strong foundation in web development and Python. Devoted to mastering React and <span style="color: #f0db4f;">JavaScript</span>, proficient in HTML, CSS, and Bootstrap. Committed to perpetual learning, I am an insatiable learner who thrives on staying at the forefront of industry trends. I am enthusiastic about guiding others through the journey to deliver exceptional frontend experiences.</h3>
+<h3>Passionate frontend artisan with a strong foundation in web development and Python, I am devoted to mastering React and <span style="color: #f0db4f;">JavaScript</span>. Proficient in HTML, CSS, and Bootstrap, as well as MySQL. Committed to perpetual learning, I thrive on staying at the forefront of industry trends. I am enthusiastic about guiding others through the journey to deliver exceptional web development experiences.
+</h3>
 
 
 # 🌐 Socials:
