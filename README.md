@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal H C</h1>
 <h3 align="center">Passionate frontend artisan with a strong foundation in web development and Python, I am devoted to mastering React and JavaScript. Proficient in HTML, CSS, and Bootstrap, as well as MySQL. Committed to perpetual learning, I thrive on staying at the forefront of industry trends. I am enthusiastic about guiding others through the journey to deliver exceptional web development experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalhc-18&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalhc-18" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalhc-18" alt="prajwalhc-18" /></a> </p>
-
 - 📫 How to reach me **prajwalhc1806@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,3 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalhc-18&show_icons=true&locale=en" alt="prajwalhc-18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalhc-18&" alt="prajwalhc-18" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalhc-18&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalhc-18" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalhc-18" alt="prajwalhc-18" /></a> </p>
