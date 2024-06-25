@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal H C</h1>
 <h3 align="center">Passionate frontend artisan with a strong foundation in web development and Python, I am devoted to mastering React and JavaScript. Proficient in HTML, CSS, and Bootstrap, as well as MySQL. Committed to perpetual learning, I thrive on staying at the forefront of industry trends. I am enthusiastic about guiding others through the journey to deliver exceptional web development experiences.</h3>
 
-- 📫 How to reach me **prajwalhc1806@gmail.com**
+📫 How to reach me <h3>prajwalhc1806@gmail.com</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
