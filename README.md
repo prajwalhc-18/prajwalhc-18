@@ -1,6 +1,6 @@
 # <div align="center">Hi 👋, I'm Prajwal H C</div>
 
-<h3><br>Passionate Backend Developer with a strong foundation in Python and Django, skilled in building robust, scalable, and efficient web applications. Proficient in MySQL, RESTful APIs, and backend logic design, with additional expertise in HTML, CSS, and JavaScript for seamless integration. Dedicated to continuous learning and staying aligned with evolving backend technologies and industry trends.</h3>
+<<h3><br>Passionate Backend Developer with a strong foundation in Java and Spring Boot, skilled in building robust, scalable, and efficient backend applications. Proficient in MySQL, RESTful APIs, and backend logic design, with working knowledge of HTML, CSS, and JavaScript for seamless integration. Committed to continuous learning and staying aligned with modern backend technologies and industry standards.</h3>
 
 
 ## 🌐 Socials:
