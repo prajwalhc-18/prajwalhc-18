@@ -23,10 +23,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prajwalhc-18&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=prajwalhc-18&icon=0&color=13)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
